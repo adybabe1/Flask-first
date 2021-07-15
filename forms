@@ -1,0 +1,3 @@
+>>> from app_py_file_name import db
+>>> from app_py_file_name import User
+>>> User.query.all()
